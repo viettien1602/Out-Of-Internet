@@ -12,4 +12,6 @@
 	- Layout: + Screen Buffer Size: width: 151, height: 41
 		  + Window Size: width: 151, height: 41 
 
+**Run file .exe to play
+
 **Note: - Turn off UniKey and CAPSLOCK to experience this game in the most accurate way.
