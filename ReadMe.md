@@ -16,4 +16,4 @@
 
 **Note: - Turn off UniKey and CAPSLOCK to experience this game in the most accurate way.
 
-![out-of-internet](./sreenshot.png)
+![out-of-internet](https://github.com/viettien1602/out-of-internet/blob/main/screenshot.PNG)
