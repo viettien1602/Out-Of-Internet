@@ -15,3 +15,5 @@
 **Run file .exe to play
 
 **Note: - Turn off UniKey and CAPSLOCK to experience this game in the most accurate way.
+
+![alt text](./[K16_ProjectC] Out Of Internet + Ngo_Viet_Tien, Van_Phu_Hoa, Tran_Minh_Khang)
